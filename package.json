@@ -9,6 +9,7 @@
   },
   "scripts": {
     "test": "jest"
+    "build": "jest"
   },
   "author": "Yarn Contributors",
   "license": "BSD-2-Clause",
